@@ -15,7 +15,7 @@ optionList = list(
   make_option("--col2", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
   make_option("--col3", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
   make_option("--col4", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
-  make_option("--col5, type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
+  make_option("--col5", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
   make_option("--col6", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
   make_option("--col7", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
   make_option("--col8", type = "character", action = "store", help = "Comma-separated list", metavar = "character"),
