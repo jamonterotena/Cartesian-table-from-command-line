@@ -38,4 +38,4 @@ result = expand.grid(columnList)
 
 #### Print ####
 colnames(result) = NULL
-print(result, row.names = FALSE)
+write.table(result, sep = "\t", col.names = FALSE, row.names = FALSE, quote = FALSE)
